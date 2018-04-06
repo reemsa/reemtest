@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="DESKTOP-1T9H56S" name="test.testwith" skipped="0" tests="1" time="51.635" timestamp="2018-04-06T18:23:52">
+  <properties>
+    <property name="ant.project.invoked-targets" value="compile,test" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_121\bin" />
+    <property name="java.vm.version" value="25.121-b13" />
+    <property name="ant.library.dir" value="C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="user.script" value="" />
+    <property name="user.country" value="SA" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="user.dir" value="C:\Users\Hi-Tech\workspace\reemtest" />
+    <property name="java.runtime.version" value="1.8.0_121-b13" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="basedir" value="C:\Users\Hi-Tech\workspace\reemtest" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_121\lib\endorsed" />
+    <property name="os.arch" value="amd64" />
+    <property name="ant.project.default-target" value="compile" />
+    <property name="java.io.tmpdir" value="C:\Users\Hi-Tech\AppData\Local\Temp\" />
+    <property name="ant.core.lib" value="C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="user.variant" value="" />
+    <property name="os.name" value="Windows 10" />
+    <property name="ant.home" value="C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327" />
+    <property name="sun.jnu.encoding" value="Cp1256" />
+    <property name="java.library.path" value="C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;C:\Program Files (x86)\WinRAR;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\PROGRA~2\PICC;C:\Program Files\Java\jdk1.8.0_121\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse;;.;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\configuration\org.eclipse.osgi\393\0\.cp" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.version" value="10.0" />
+    <property name="ant.file" value="C:\Users\Hi-Tech\workspace\reemtest\build.xml" />
+    <property name="user.home" value="C:\Users\Hi-Tech" />
+    <property name="user.timezone" value="" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="src.java.dir" value="C:\Users\Hi-Tech\workspace\reemtest\src\test" />
+    <property name="java.class.path" value="C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-antlr.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-bcel.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-bsf.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-log4j.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-oro.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-regexp.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-resolver.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-apache-xalan2.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-commons-logging.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-commons-net.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jai.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-javamail.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jdepend.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jmf.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-jsch.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-junit4.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-launcher.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-netrexx.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-swing.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant-testutil.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327\lib\ant.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\configuration\org.eclipse.osgi\64\0\.cp\lib\antdebug.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\configuration\org.eclipse.osgi\64\0\.cp\lib\remote.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\configuration\org.eclipse.osgi\65\0\.cp\lib\remoteAnt.jar;C:\Program Files\Java\jdk1.8.0_121\lib\tools.jar;C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20161207-1901.jar" />
+    <property name="user.name" value="Hi-Tech" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1523039030624 -Declipse.connect.port=58721 -Dant.home=C:\Users\Hi-Tech\AppData\Local\Temp\Rar$EXa0.392\eclipse\plugins\org.apache.ant_1.9.6.v201510161327 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile C:\Users\Hi-Tech\workspace\reemtest\build.xml compile test" />
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_121" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="user.language" value="ar" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.version" value="1.8.0_121" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_121\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="result.dir" value="C:\Users\Hi-Tech\workspace\reemtest\target" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_121\lib\resources.jar;C:\Program Files\Java\jre1.8.0_121\lib\rt.jar;C:\Program Files\Java\jre1.8.0_121\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_121\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_121\lib\jce.jar;C:\Program Files\Java\jre1.8.0_121\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_121\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_121\classes" />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="file.separator" value="\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="sun.desktop" value="windows" />
+    <property name="result.javaclasses.dir" value="C:\Users\Hi-Tech\workspace\reemtest\target\classes" />
+    <property name="sun.cpu.isalist" value="amd64" />
+  </properties>
+  <testcase classname="test.testwith" name="test" time="51.482" />
+  <system-out><![CDATA[Login
+]]></system-out>
+  <system-err><![CDATA[1523039033927	geckodriver	INFO	geckodriver 0.20.0 (0ac3698a74a7b1a742682b8e704f1f418df827ed 2018-03-13)
+1523039033935	geckodriver	INFO	Listening on 127.0.0.1:18004
+1523039034882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Hi-Tech\\AppData\\Local\\Temp\\rust_mozprofile.M6vC7guWqn5v"
+Unable to read VR Path Registry from C:\Users\Hi-Tech\AppData\Local\openvr\openvrpaths.vrpath
+1523039036774	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Hi-Tech\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Hi-Tech\AppData\Local\openvr\openvrpaths.vrpath
+1523039040996	Marionette	INFO	Listening on port 58726
+1523039041222	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Hi-Tech\AppData\Local\openvr\openvrpaths.vrpath
+أبر 06, 2018 9:24:05 م org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Unable to read VR Path Registry from C:\Users\Hi-Tech\AppData\Local\openvr\openvrpaths.vrpath
+]]></system-err>
+</testsuite>
